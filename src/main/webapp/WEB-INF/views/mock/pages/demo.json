@@ -1,0 +1,56 @@
+{
+    "title": "'Demo Page'",
+    "description": "",
+    "currentUrl": "/demo/index",
+    "_const_cas_user_":{
+        "menu":{
+            "childsList":[
+                {
+                    "name": "示例",
+                    "url": "/",
+                    "childsList":[
+                        {
+                            "name": "示例1",
+                            "url": "/demo/index"
+                        },
+                        {
+                            "name": "示例2",
+                            "url": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "平台总览",
+                    "url": "/",
+                    "childsList":[]
+                },
+                {
+                    "name": "分销渠道管理",
+                    "url": "/distributionChannel/index",
+                    "childsList":[]
+                },
+                {
+                    "name": "分销商品管理",
+                    "url": "/distributionGoodsManage/index",
+                    "childsList":[]
+                },
+                {
+                    "name": "渠道商品管理",
+                    "url": "/distributionChannelGoods/index",
+                    "childsList":[]
+                },
+                {
+                    "name": "财务对账",
+                    "url": "/reconciliation/index",
+                    "childsList":[]
+                },
+                {
+                    "name": "退税管理",
+                    "url": "/distributionRefund/index",
+                    "childsList":[
+                    ]
+                }
+            ]
+        }
+    }
+}

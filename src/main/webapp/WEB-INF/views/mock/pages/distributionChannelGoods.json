@@ -1,0 +1,153 @@
+{
+    "currentUrl": "/distributionChannelGoods/index",
+    "title": "分销渠道管理",
+    "__json": [
+        {
+            "importTypes": "importTypes"
+        },
+        {
+            "goodsStatus": "goodsStatus"
+        },
+        {
+            "warningStatus": "warningStatus"
+        },
+        {
+            "categoryList": "categoryList"
+        },
+        {
+            "storageList": "storageList"
+        }
+    ],
+    "warningStatus": [
+        {
+            "name": "低于指导价5%",
+            "id": 0
+        },
+        {
+            "name": "高于指导价100%",
+            "id": 1
+        },
+        {
+            "name": "存在下架锁定库存",
+            "id": 3
+        },
+        {
+            "name": "存在上架缺货锁定库存",
+            "id": 4
+        }
+    ],
+    "importTypes": [
+        {
+            "name": "保税",
+            "id": 0
+        },
+        {
+            "name": "直邮",
+            "id": 1
+        },
+        {
+            "name": "海淘",
+            "id": 2
+        },
+        {
+            "name": "一般贸易",
+            "id": 3
+        }
+    ],
+    "goodsStatus": [
+        {
+            "name": "上架",
+            "id": 1
+        },
+        {
+            "name": "下架",
+            "id": 0
+        }
+    ],
+    "categoryList": [
+        {
+            "name": "类目1111111111111111111111111111",
+            "id": "1",
+            "children": [
+                {
+                    "name": "类目1.0",
+                    "id": "10"
+                },
+                {
+                    "name": "类目1.1",
+                    "id": "11"
+                },
+                {
+                    "name": "类目1.2",
+                    "id": "12"
+                }
+            ]
+        },
+        {
+            "name": "类目222222222222222222",
+            "id": "2",
+            "children": [
+                {
+                    "name": "类目2.0",
+                    "id": "20"
+                },
+                {
+                    "name": "类目2.1",
+                    "id": "21"
+                },
+                {
+                    "name": "类目2.2",
+                    "id": "22"
+                }
+            ]
+        },
+        {
+            "name": "类目3",
+            "id": "3",
+            "children": [
+                {
+                    "name": "类目3.0",
+                    "id": "30"
+                },
+                {
+                    "name": "类目3.1",
+                    "id": "31"
+                },
+                {
+                    "name": "类目3.3",
+                    "id": "32"
+                }
+            ]
+        }
+    ],
+    "storageList": [
+        {
+            "name": "仓仓仓仓仓仓仓仓仓仓仓仓仓仓仓仓仓仓仓仓仓仓仓库库库库库库库库库库库库库库库库库库库库库库库仓库1",
+            "id": "10001"
+        },
+        {
+            "name": "仓库2",
+            "id": "10002"
+        },
+        {
+            "name": "仓库3",
+            "id": "10003"
+        },
+        {
+            "name": "仓库4",
+            "id": "10004"
+        },
+        {
+            "name": "仓库5",
+            "id": "10005"
+        },
+        {
+            "name": "仓库6",
+            "id": "10006"
+        },
+        {
+            "name": "仓库7",
+            "id": "10007"
+        }
+    ]
+}

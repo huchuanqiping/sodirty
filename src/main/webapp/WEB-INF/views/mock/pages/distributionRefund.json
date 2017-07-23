@@ -1,0 +1,72 @@
+{
+    "currentUrl": "/distributionRefund/index",
+    "title": "退税管理",
+    "__json": [
+        {
+            "applicationStatus": "applicationStatus"
+        },
+        {
+            "channelList": "channelList"
+        }
+    ],
+    "applicationStatus": [
+        {
+            "name": "待审核",
+            "id": 1
+        },
+        {
+            "name": "审核不通过",
+            "id": 2
+        },
+        {
+            "name": "已提交赔付",
+            "id": 3
+        },
+        {
+            "name": "赔付成功",
+            "id": 4
+        },
+        {
+            "name": "赔付失败",
+            "id": 5
+        }
+    ],
+    "channelList": [
+        {
+            "name": "渠道1",
+            "id": 1
+        },
+        {
+            "name": "渠道渠道渠道渠道渠道渠道渠道渠道渠道渠道渠道渠道渠道渠道渠道12",
+            "id": 12
+        },
+        {
+            "name": "渠道123",
+            "id": 123
+        },
+        {
+            "name": "渠道21",
+            "id": 21
+        },
+        {
+            "name": "渠道2221",
+            "id": 2221
+        },
+        {
+            "name": "渠道31",
+            "id": 31
+        },
+        {
+            "name": "渠道321",
+            "id": 321
+        },
+        {
+            "name": "渠道3221",
+            "id": 3221
+        },
+        {
+            "name": "渠道3334",
+            "id": 3334
+        }
+    ]
+}
